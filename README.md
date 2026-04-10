@@ -1,5 +1,7 @@
 # ☀️ Solar Panel Defect Detection
 live link  -- - > https://solarpaneldefectdetection.streamlit.app/
+
+
 An AI-powered web application that detects defects in solar panels using deep learning and computer vision.
 
 ---
